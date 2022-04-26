@@ -1,0 +1,7 @@
+Febre,Enjoo,Mancha,Dor,Diagnostico
+baixa,sim,pequena,A,doente
+media,nao,media,C,saudavel
+alta,sim,grande,B,saudavel
+alta,nao,pequena,A,doente
+baixa,nao,grande,D,saudavel
+media,nao,ausente,C,doente
